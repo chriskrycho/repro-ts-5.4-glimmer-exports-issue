@@ -1,0 +1,10 @@
+{
+  "name": "has-weird-export",
+  "types": "dist/index.d.ts",
+  "main": null,
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "imports-from-it",
+  "dependencies": {
+    "has-weird-export": "link:../has-weird-export"
+  },
+  "devDependencies": {
+    "typescript": "5.4.0-dev.20240109"
+  }
+}

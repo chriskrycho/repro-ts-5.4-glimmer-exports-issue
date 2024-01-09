@@ -1,0 +1,23 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  has-weird-export:
+    specifier: link:../has-weird-export
+    version: link:../has-weird-export
+
+devDependencies:
+  typescript:
+    specifier: 5.4.0-dev.20240109
+    version: 5.4.0-dev.20240109
+
+packages:
+
+  /typescript@5.4.0-dev.20240109:
+    resolution: {integrity: sha512-pKDkvh+RizbUm4BEmfvmG74qycZsHw4oFB6jY9D+oKoxPzoZr/edCTks/t50kvU2RdiDn0UKSzZB4YVzrC9WTQ==}
+    engines: {node: '>=14.17'}
+    hasBin: true
+    dev: true
